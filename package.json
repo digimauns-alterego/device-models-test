@@ -1,0 +1,16 @@
+{
+  "name": "device-models-test",
+  "version": "1.0.0",
+  "description": "This repo is the test environment for [Azure/device-models](https://github.com/Azure/device-models)",
+  "main": "repo-convention.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsonata": "^1.8.3",
+    "mkdirp": "^1.0.4"
+  }
+}
